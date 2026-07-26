@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 3rd-year Electronics and Communication Engineering student at NIT Raipur <br>with a strong focus on competitive programming and <br>mastering Data Structures & Algorithms. <br>I have experience in the MERN stack and enjoy building <br>scalable full-stack applications. I’m also interested in system <br>design, particularly high-level design, and currently exploring <br>advanced technologies such as machine learning algorithms <br>and modern web architectures.
+I’m a Final-year Electronics and Communication Engineering student at NIT Raipur <br>with a strong focus on competitive programming and <br>mastering Data Structures & Algorithms. <br>I have experience in the MERN stack and enjoy building <br>scalable full-stack applications. I’m also interested in system <br>design, particularly high-level design, and currently exploring <br>advanced technologies such as machine learning algorithms <br>and modern web architectures.
 
 
 ## 🌐 Socials:
