@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Final-year Electronics and Communication Engineering student at NIT Raipur with a strong focus on competitive programming and mastering Data Structures & Algorithms. I have experience in the MERN stack and enjoy building scalable full-stack applications. I’m also interested in system design, particularly high-level design, and currently exploring <br>advanced technologies such as machine learning algorithms and modern web architectures.
+I’m a Final-year Electronics and Communication Engineering student at NIT Raipur with a strong focus on competitive programming and mastering Data Structures & Algorithms. I have experience in the MERN stack and enjoy building scalable full-stack applications. I’m also interested in system design, particularly high-level design, and currently exploring advanced technologies such as machine learning algorithms and modern web architectures.
 
 
 ## 🌐 Socials:
